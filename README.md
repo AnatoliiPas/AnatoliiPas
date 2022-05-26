@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnatoliiPas
-- 👀 I’m interested in python web development
-- 🌱 I’m currently learning flask, fastapi
+- 👀 I’m interested in rust
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
